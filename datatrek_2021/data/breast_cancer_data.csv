@@ -1,5 +1,24 @@
 # Dataset source: UCI
 # Description: Breast data cancer
+# Creator:
+# 
+# Dr. WIlliam H. Wolberg (physician)
+# University of Wisconsin Hospitals
+# Madison, Wisconsin, USA
+#
+# Data Set Information:
+# Samples arrive periodically as Dr. Wolberg reports his clinical cases. The database therefore reflects this chronological grouping of the data. This grouping information appears immediately below, having been removed from the data itself:
+#
+# Group 1: 367 instances (January 1989)
+# Group 2: 70 instances (October 1989)
+# Group 3: 31 instances (February 1990)
+# Group 4: 17 instances (April 1990)
+# Group 5: 48 instances (August 1990)
+# Group 6: 49 instances (Updated January 1991)
+# Group 7: 31 instances (June 1991)
+# Group 8: 86 instances (November 1991)
+# -----------------------------------------
+# Total: 699 points (as of the donated datbase on 15 July 1992) 
 patient_id,clump_thickness,cell_size_uniformity,cell_shape_uniformity,marginal_adhesion,single_ep_cell_size,bare_nuclei,bland_chromatin,normal_nucleoli,mitoses,class,doctor_name
 1000025,5.0,1.0,1,1,2,1,3.0,1.0,1,benign,Dr. Doe
 1002945,5.0,4.0,4,5,7,10,3.0,2.0,1,benign,Dr. Smith
